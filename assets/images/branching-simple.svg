@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="237.40239"
+   height="453.5433"
+   id="SvgGdi_output"
+   version="1.1"
+   sodipodi:docname="branching-simple.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   viewBox="0 0 118.70119 226.77165">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="2.5439219"
+     inkscape:cx="48.319967"
+     inkscape:cy="263.72067"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="SvgGdi_output"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="clips_hatches_and_gradients">
+    <clipPath
+       id="264_text_clipper-5">
+      <rect
+         x="166"
+         y="76"
+         width="134.53"
+         height="26.389999"
+         id="265-7" />
+    </clipPath>
+    <clipPath
+       id="276_text_clipper-5">
+      <rect
+         x="166"
+         y="236"
+         width="103.3"
+         height="26.389999"
+         id="277-1" />
+    </clipPath>
+    <clipPath
+       id="288_text_clipper-3">
+      <rect
+         x="6"
+         y="76"
+         width="83.940002"
+         height="52.790001"
+         id="289-8" />
+    </clipPath>
+    <clipPath
+       id="294_text_clipper-6">
+      <rect
+         x="6"
+         y="99.769997"
+         width="83.940002"
+         height="52.790001"
+         id="295-5" />
+    </clipPath>
+    <clipPath
+       id="115_text_clipper">
+      <rect
+         x="168"
+         y="78"
+         width="134.53"
+         height="26.389999"
+         id="116" />
+    </clipPath>
+    <clipPath
+       id="124_text_clipper">
+      <rect
+         x="168"
+         y="238"
+         width="103.3"
+         height="26.389999"
+         id="125" />
+    </clipPath>
+    <clipPath
+       id="134_text_clipper">
+      <rect
+         x="8"
+         y="78"
+         width="83.940002"
+         height="52.790001"
+         id="135" />
+    </clipPath>
+    <clipPath
+       id="140_text_clipper">
+      <rect
+         x="8"
+         y="101.77"
+         width="83.940002"
+         height="52.790001"
+         id="141" />
+    </clipPath>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-size:10px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.5"
+     x="23.301769"
+     y="19.218111"
+     id="text225"><tspan
+       sodipodi:role="line"
+       id="tspan223"
+       x="23.301769"
+       y="19.218111">Branching</tspan><tspan
+       sodipodi:role="line"
+       x="23.301769"
+       y="31.718111"
+       id="tspan227" /></text>
+  <g
+     id="g961"
+     transform="matrix(0.77461858,0,0,0.77461858,121.98352,35.575516)">
+    <g
+       transform="matrix(0.49999999,0,0,0.49999999,-158.89368,20.443786)"
+       id="root_group">
+      <line
+         x1="76"
+         y2="38"
+         x2="160"
+         id="108"
+         style="fill:none;stroke:#a9a9a9;stroke-width:2;stroke-miterlimit:9"
+         y1="38" />
+      <line
+         x1="76"
+         y2="198"
+         x2="160"
+         id="109"
+         style="fill:none;stroke:#a9a9a9;stroke-width:2;stroke-miterlimit:9"
+         y1="38" />
+      <circle
+         style="fill:#449adf"
+         transform="matrix(2,0,0,2,168,8)"
+         cx="15"
+         cy="15"
+         id="110"
+         r="15" />
+      <path
+         id="111"
+         transform="matrix(2,0,0,2,168,8)"
+         style="fill:#ffffff;fill-rule:evenodd"
+         d="M 18.422,13 13.4357,18.5006 10.8556,15.9868 6.500101,20.5001 23.9571,20.48582 Z"
+         inkscape:connector-curvature="0" />
+      <circle
+         style="fill:#ffffff"
+         transform="matrix(2,0,0,2,168,8)"
+         cx="10.92"
+         cy="10.96"
+         id="112"
+         r="2.75" />
+      <text
+         clip-path="url(#115_text_clipper)"
+         style="font-size:21px;font-family:'Microsoft Sans Serif';fill:#000000"
+         y="78"
+         x="168"
+         id="113">
+        <tspan
+           id="117"
+           dy="15.75pt">ConvertColor</tspan>
+      </text>
+      <circle
+         style="fill:#449adf"
+         transform="matrix(2,0,0,2,168,168)"
+         cx="15"
+         cy="15"
+         id="119"
+         r="15" />
+      <path
+         id="120"
+         transform="matrix(2,0,0,2,168,168)"
+         style="fill:#ffffff;fill-rule:evenodd"
+         d="M 18.422,13 13.4357,18.5006 10.8556,15.9868 6.500101,20.5001 23.9571,20.48582 Z"
+         inkscape:connector-curvature="0" />
+      <circle
+         style="fill:#ffffff"
+         transform="matrix(2,0,0,2,168,168)"
+         cx="10.92"
+         cy="10.96"
+         id="121"
+         r="2.75" />
+      <text
+         clip-path="url(#124_text_clipper)"
+         style="font-size:21px;font-family:'Microsoft Sans Serif';fill:#000000"
+         y="238"
+         x="168"
+         id="122">
+        <tspan
+           id="126"
+           dy="15.75pt">Threshold</tspan>
+      </text>
+      <path
+         d="M 31.179,5.2 C 34.9985,11.0918 34.9814,18.682 31.13552,24.557"
+         id="128"
+         transform="matrix(2,0,0,2,8,8)"
+         style="fill:none;stroke:#a9a9a9;stroke-width:2;stroke-miterlimit:9"
+         inkscape:connector-curvature="0" />
+      <circle
+         style="fill:#5bb27e"
+         transform="matrix(2,0,0,2,8,8)"
+         cx="15"
+         cy="15"
+         id="129"
+         r="15" />
+      <path
+         d="M 23.75,9.1 19.5587,11.5211 V 18.3937 L 23.75,20.8147 Z"
+         id="130"
+         transform="matrix(2,0,0,2,8,8)"
+         style="fill:#ffffff;fill-rule:evenodd"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 8.6927,9.2 H 15.7194 C 17.19,9.2 18.3739,10.4337 18.3739,11.9661 V 17.8234 C 18.3739,19.3558 17.19,20.5893 15.7194,20.5893 H 8.692701 C 7.222101,20.5893 6.038201,19.3558 6.038201,17.8234 V 11.9661 C 6.038201,10.4337 7.222101,9.199999 8.692701,9.199999 Z"
+         id="131"
+         transform="matrix(2,0,0,2,8,8)"
+         style="fill:#ffffff;fill-rule:evenodd"
+         inkscape:connector-curvature="0" />
+      <text
+         clip-path="url(#134_text_clipper)"
+         style="font-size:21px;font-family:'Microsoft Sans Serif';fill:#000000"
+         y="78"
+         x="8"
+         id="132">
+        <tspan
+           id="136"
+           dy="15.75pt">Camera</tspan>
+      </text>
+      <text
+         clip-path="url(#140_text_clipper)"
+         style="font-size:21px;font-family:'Microsoft Sans Serif';fill:#000000"
+         y="101.77"
+         x="8"
+         id="138">
+        <tspan
+           id="142"
+           dy="15.75pt">Capture</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

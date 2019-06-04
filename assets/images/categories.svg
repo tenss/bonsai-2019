@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="140mm"
+   height="107.57217mm"
+   viewBox="0 0 140.00001 107.57218"
+   version="1.1"
+   id="svg6496"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="categories.svg">
+  <defs
+     id="defs6490">
+    <clipPath
+       id="48_text_clipper">
+      <rect
+         x="6"
+         y="556"
+         width="152.60001"
+         height="26.389999"
+         id="49" />
+    </clipPath>
+    <clipPath
+       id="36_text_clipper">
+      <rect
+         id="37"
+         height="26.389999"
+         width="49.209999"
+         y="396"
+         x="6" />
+    </clipPath>
+    <clipPath
+       id="12_text_clipper">
+      <rect
+         id="13"
+         height="26.389999"
+         width="126.13"
+         y="76"
+         x="6" />
+    </clipPath>
+    <clipPath
+       id="12_text_clipper-7">
+      <rect
+         id="13-4"
+         height="26.389999"
+         width="98.629997"
+         y="76"
+         x="326" />
+    </clipPath>
+    <clipPath
+       id="24_text_clipper">
+      <rect
+         id="25"
+         height="26.389999"
+         width="103.3"
+         y="236"
+         x="6" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0794356"
+     inkscape:cx="42.293342"
+     inkscape:cy="147.7529"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6493">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(12.892901,25.479204)">
+    <text
+       transform="matrix(0.16671209,0,0,0.16671209,3.5954924,-11.503234)"
+       clip-path="url(#36_text_clipper)"
+       style="font-size:21px;font-family:'Microsoft Sans Serif';fill:#000000"
+       y="396"
+       x="6"
+       id="34">
+      <tspan
+         id="38"
+         dy="15.75pt">Sink</tspan>
+    </text>
+    <text
+       clip-path="url(#12_text_clipper)"
+       style="font-size:21px;font-family:'Microsoft Sans Serif';fill:#000000"
+       y="76"
+       x="6"
+       id="10"
+       transform="matrix(0.16671209,0,0,0.16671209,3.5953829,-17.641748)">
+      <tspan
+         id="14"
+         dy="15.75pt">Source</tspan>
+    </text>
+    <text
+       clip-path="url(#24_text_clipper)"
+       style="font-size:21px;font-family:'Microsoft Sans Serif';fill:#000000"
+       y="236"
+       x="6"
+       id="22"
+       transform="matrix(0.16671209,0,0,0.16671209,3.6758328,-24.48688)">
+      <tspan
+         id="26"
+         dy="15.75pt">Transform</tspan>
+    </text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.46935511px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.24260081px"
+       x="5.2825508"
+       y="-20.690365"
+       id="text4593"><tspan
+         sodipodi:role="line"
+         id="tspan4591"
+         x="5.2825513"
+         y="-20.690365">Category</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.46935511px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.24260081px"
+       x="54.282551"
+       y="-20.699842"
+       id="text4605"><tspan
+         sodipodi:role="line"
+         id="tspan4603"
+         x="54.282551"
+         y="-20.699842">Description</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.85201645px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.24260081px"
+       x="36.41917"
+       y="-3.937881"
+       id="text4652"><tspan
+         sodipodi:role="line"
+         id="tspan4650"
+         x="36.41917"
+         y="-3.937881">generate event streams from</tspan><tspan
+         sodipodi:role="line"
+         x="36.41917"
+         y="2.1271396"
+         id="tspan4654">devices or files</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.85201645px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.24260081px"
+       x="36.426277"
+       y="15.879066"
+       id="text4652-7"><tspan
+         sodipodi:role="line"
+         x="36.426277"
+         y="15.879066"
+         id="tspan4654-2">convert or process individual</tspan><tspan
+         sodipodi:role="line"
+         x="36.426277"
+         y="21.944088"
+         id="tspan4720">data items</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.85201645px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.24260081px"
+       x="36.414429"
+       y="55.085323"
+       id="text4652-7-4-0"><tspan
+         sodipodi:role="line"
+         x="36.414429"
+         y="55.085323"
+         id="tspan4745-5">save data or trigger external</tspan><tspan
+         sodipodi:role="line"
+         x="36.414429"
+         y="61.150345"
+         id="tspan4782">outputs </tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4772"
+       style="font-size:26.66666603px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:1px"
+       transform="matrix(0.24260082,0,0,0.24260082,36.665881,39.823303)"><flowRegion
+         id="flowRegion4774"><rect
+           id="rect4776"
+           width="194.76439"
+           height="39.914677"
+           x="-65.402359"
+           y="60.743122" /></flowRegion><flowPara
+         id="flowPara4778" /></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24260081px"
+       d="M -12.892901,-13.340365 H 127.1071"
+       id="path4809"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24260081px"
+       d="M -12.892901,6.9888073 H 127.1071"
+       id="path4809-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24260081px"
+       d="M -12.892901,67.976303 H 127.1071"
+       id="path4809-76"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g824"
+       transform="matrix(0.33333333,0,0,0.33333333,-8.5414007,-7.7236917)">
+      <path
+         style="fill:none;stroke:#a9a9a9;stroke-width:2"
+         inkscape:connector-curvature="0"
+         id="path2"
+         d="M 31.179,5.2 C 34.9985,11.0918 34.9814,18.682 31.135517,24.557" />
+      <circle
+         style="fill:#5bb27e"
+         id="circle4"
+         r="15"
+         cy="15"
+         cx="15" />
+    </g>
+    <circle
+       style="fill:#449adf;stroke-width:0.33333331"
+       cx="-3.5414007"
+       cy="17.105099"
+       r="5"
+       id="circle2" />
+    <g
+       id="g1041"
+       transform="translate(45.890913,-19.515257)">
+      <path
+         style="fill:none;stroke:#a9a9a9;stroke-width:0.66671419"
+         inkscape:connector-curvature="0"
+         id="path2-6"
+         d="M -51.046786,82.344028 C -53.297814,81.863694 -55.053406,80.100268 -55.523439,77.847041" />
+      <circle
+         style="fill:#9b5bb3;stroke-width:0.3333571"
+         id="circle4-0"
+         r="5.0003567"
+         cy="76.276932"
+         cx="-49.432671" />
+    </g>
+    <g
+       id="g1127"
+       transform="translate(0,-39.657578)">
+      <text
+         id="46"
+         x="6"
+         y="556"
+         style="font-size:21px;font-family:'Microsoft Sans Serif';fill:#000000"
+         clip-path="url(#48_text_clipper)"
+         transform="matrix(0.16671209,0,0,0.16671209,3.5886479,-18.348379)">
+        <tspan
+           dy="15.75pt"
+           id="50">Combinator</tspan>
+      </text>
+      <text
+         id="text4652-7-4-0-7"
+         y="74.925957"
+         x="36.227268"
+         style="font-size:4.85201645px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.24260081px"
+         xml:space="preserve"><tspan
+           id="tspan4782-1"
+           y="74.925957"
+           x="36.227268"
+           sodipodi:role="line">manage control flow or synchronize</tspan><tspan
+           id="tspan4807"
+           y="80.990974"
+           x="36.227268"
+           sodipodi:role="line">parallel inputs </tspan></text>
+      <circle
+         id="circle2-3"
+         r="5"
+         cy="76.591469"
+         cx="-3.5413995"
+         style="fill:#eec04b;stroke-width:0.33333331" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24260081px"
+       d="M -12.892901,27.31797 H 127.1071"
+       id="path4809-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24260081px"
+       d="M -12.892901,47.647138 H 127.1071"
+       id="path4809-5"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g1153"
+       transform="translate(0,39.783473)">
+      <text
+         id="text4652-7-4"
+         y="35.268379"
+         x="36.513935"
+         style="font-size:4.85201645px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.24260081px"
+         xml:space="preserve"><tspan
+           id="tspan4720-6"
+           y="35.268379"
+           x="36.513935"
+           sodipodi:role="line">group of operators to perform</tspan><tspan
+           id="tspan4745"
+           y="41.333401"
+           x="36.513935"
+           sodipodi:role="line">a more complex operation</tspan></text>
+      <g
+         transform="matrix(1.0121074,0,0,1.0121074,42.732473,-40.22919)"
+         id="g1077">
+        <circle
+           id="200-3"
+           cy="76.240013"
+           cx="-45.720318"
+           style="fill:#eec04b;stroke-width:0.32932499"
+           r="4.9398746" />
+        <circle
+           id="201-8"
+           cy="76.240013"
+           cx="-45.720318"
+           style="fill:none;stroke:#a9a9a9;stroke-width:0.65864998;stroke-miterlimit:9"
+           r="4.9398746" />
+      </g>
+      <g
+         id="g1095">
+        <g
+           transform="translate(-1.5875)"
+           id="g1100">
+          <text
+             clip-path="url(#12_text_clipper-7)"
+             style="font-size:21px;font-family:'Microsoft Sans Serif';fill:#000000"
+             y="76"
+             x="326"
+             id="10-2"
+             transform="matrix(0.16671209,0,0,0.16671209,-49.759222,22.015845)">
+            <tspan
+               dy="15.75pt"
+               id="14-5">CNested</tspan>
+          </text>
+          <rect
+             y="34.632164"
+             x="3.5710163"
+             height="4.4533315"
+             width="3.5626652"
+             id="rect1090"
+             style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.26499999" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
