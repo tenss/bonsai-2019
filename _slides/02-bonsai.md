@@ -7,7 +7,7 @@ permalink: /slides/bonsai/
 <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
 <script type="text/template">
 
-[neurogears.org/anb-2019](http://neurogears.org/anb-2019/)
+[tenss.github.io/bonsai-2019](http://tenss.github.io/bonsai-2019/)
 ### How to get data into a computer? (recap)
 
 * Computers can only measure voltage
